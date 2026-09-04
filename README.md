@@ -40,6 +40,11 @@
   </tbody>
 </table>
 
+## ĐỒ ÁN MÔN HỌC
+
+* **Đề tài**: [**MedCLIP-SAMv2**](https://github.com/HinnoNguyen/MedCLIP-SAMv2) — Towards Universal Text-Driven Medical Image Segmentation
+* **Repository**: https://github.com/HinnoNguyen/MedCLIP-SAMv2
+
 ## BÀI TẬP LÍ THUYẾT
 
 <p align="center">
@@ -47,7 +52,5 @@
   <i>"Nhằm đảm bảo tính công bằng... Tự làm đi để còn thi CK"</i>
 </p>
 
-## ĐỒ ÁN MÔN HỌC
-
-* **Đề tài**: [**MedCLIP-SAMv2**](https://github.com/HinnoNguyen/MedCLIP-SAMv2) — Towards Universal Text-Driven Medical Image Segmentation
-* **Repository**: https://github.com/HinnoNguyen/MedCLIP-SAMv2
+## LƯU Ý
+- Đống bài tập thực hành mình vẫn khuyên các bạn **tự đi mà làm**. Nếu giảng viên phát hiện bài bạn giống mình thì mình không chịu trách nhiệm với điểm số của bạn.
