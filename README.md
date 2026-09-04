@@ -53,4 +53,4 @@
 </p>
 
 ## LƯU Ý
-- Đống bài tập thực hành mình vẫn khuyên các bạn **tự đi mà làm**. Nếu giảng viên phát hiện bài bạn giống mình thì mình không chịu trách nhiệm với điểm số của bạn.
+Đống bài tập thực hành mình vẫn khuyên các bạn **tự đi mà làm**. Nếu giảng viên phát hiện bài bạn giống mình thì mình không chịu trách nhiệm với điểm số của bạn.
