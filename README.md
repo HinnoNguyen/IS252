@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/LN7b5bejr-wAAAAM/copano-rickey-uma-musume.gif" alt="Copano Rickey Uma Musume" /><br>
-  <i>"Nhằm đảm bảo tính công bằng... Tự làm đi để còn thi CK"</i>
+  <i>"Nhằm đảm bảo tính công bằng... Tự làm đi."</i>
 </p>
 
 ## LƯU Ý
