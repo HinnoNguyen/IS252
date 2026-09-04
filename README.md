@@ -9,10 +9,38 @@
 
 ## NỘI DUNG THỰC HÀNH
 
-| Lab | Nội dung thực hành |
-| :---: | :--- |
-| **[Lab 1](./Lab1)** | Tiền xử lý & Khám phá dữ liệu (EDA - Bank, Titanic, BĐS TP.HCM) |
-| **[Lab 2](./Lab2)** | Khai phá luật kết hợp (Association Rules - Apriori, FP-Growth) |
-| **[Lab 3](./Lab3)** | Phân lớp dữ liệu (Classification - Decision Tree, Random Forest,...) |
-| **[Lab 4](./Lab4)** | Tối ưu hóa & Học sâu (Gradient Descent, Faster R-CNN, UNet, CLIP) |
-| **[Lab 5](./Lab5)** | Phân cụm dữ liệu (Clustering Analysis - K-Means) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="center"><b>Thực hành</b></th>
+      <th width="80%" align="left"><b>Nội dung chi tiết</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b><a href="./Lab1">Lab 1</a></b></td>
+      <td>Tiền xử lý & Khám phá dữ liệu (EDA - Bank, Titanic, BĐS TP.HCM)</td>
+    </tr>
+    <tr>
+      <td align="center"><b><a href="./Lab2">Lab 2</a></b></td>
+      <td>Khai phá luật kết hợp (Association Rules - Apriori, FP-Growth)</td>
+    </tr>
+    <tr>
+      <td align="center"><b><a href="./Lab3">Lab 3</a></b></td>
+      <td>Phân lớp dữ liệu (Classification - Decision Tree, Random Forest,...)</td>
+    </tr>
+    <tr>
+      <td align="center"><b><a href="./Lab4">Lab 4</a></b></td>
+      <td>Tối ưu hóa & Học sâu (Gradient Descent, Faster R-CNN, UNet, CLIP)</td>
+    </tr>
+    <tr>
+      <td align="center"><b><a href="./Lab5">Lab 5</a></b></td>
+      <td>Phân cụm dữ liệu (Clustering Analysis - K-Means)</td>
+    </tr>
+  </tbody>
+</table>
+
+## ĐỒ ÁN MÔN HỌC
+
+* **Đề tài**: [**MedCLIP-SAMv2**](https://github.com/HinnoNguyen/MedCLIP-SAMv2) — Towards Universal Text-Driven Medical Image Segmentation
+* **Repository**: https://github.com/HinnoNguyen/MedCLIP-SAMv2
