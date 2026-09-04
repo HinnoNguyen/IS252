@@ -40,6 +40,13 @@
   </tbody>
 </table>
 
+## BÀI TẬP LÍ THUYẾT
+
+<p align="center">
+  <img src="https://media.tenor.com/LN7b5bejr-wAAAAM/copano-rickey-uma-musume.gif" alt="Copano Rickey Uma Musume" /><br>
+  <i>"Nhằm đảm bảo tính công bằng... Tự làm đi để còn thi CK"</i>
+</p>
+
 ## ĐỒ ÁN MÔN HỌC
 
 * **Đề tài**: [**MedCLIP-SAMv2**](https://github.com/HinnoNguyen/MedCLIP-SAMv2) — Towards Universal Text-Driven Medical Image Segmentation
